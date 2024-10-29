@@ -20,7 +20,7 @@ This project is still under construction
 * installations such as JUnit, intellij, SDK, JDK, Android Studio.
 *Install all flutter requirements such as dart.
 
-1. Clone the repo `https://github.com/Ivan-Keli/`
+1. Clone the repo `https://github.com/Ivan-Keli/adalabsEcommerce`
 2. Build and run th project
 
 * Run App to compile the program
